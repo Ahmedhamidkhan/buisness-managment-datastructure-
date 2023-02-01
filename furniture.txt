@@ -1,0 +1,7 @@
+table
+chair
+dressing
+closet
+bed
+door
+sofa
